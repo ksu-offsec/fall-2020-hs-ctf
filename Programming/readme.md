@@ -9,7 +9,7 @@ None given
 
 **Solution:**  
 Length = 20  
-
+  
 Variables are assigned values using =\.
 
 ## Question 2 (Difficulty level 2)
@@ -32,7 +32,7 @@ If you declare the variable “Scores” and assign it the list values of: [11, 
 None given
 
 **Solution:**  
-Scores.append(156)
+Scores.append(156)  
 
 \.append() allows for items to be added to the end of a list
 
@@ -46,22 +46,22 @@ Using Python, fill in the appropriate statement (marked by xx) to make the follo
     print (“b is greater than a”)  
 
 **Solution:**  
-    xx= if
+if  
 
 “if b is greater than a” is used as the condition for the statement “b is greater than a”
  
 
-Programming 5 (Difficulty Level 5)
-**Initial Information:**    In Python, what is the output of the following “for” loop? When entering your answer, be sure to separate the values with commas:
+## Question 5 (Difficulty level 5)
+**Initial Information:**  
+In Python, what is the output of the following “for” loop? When entering your answer, be sure to separate the values with commas:  
 
-for x in range(5):
-print(x)
+    for x in range(5):
+        print(x)
 
+    for x in range (10,15):
+        print (x)
 
-for x in range (10,15):
-print (x)
-
-**Solution:**   0, 1, 2, 3, 4, 10 , 11, 12, 13, 14
-
+**Solution:**  
+0, 1, 2, 3, 4, 10 , 11, 12, 13, 14  
 
 “For” loops iterate over a given sequence. In this case, the first sequence is 0-4, denoted by (5) and the second sequence is 10-14, denoted by (10, 15)
