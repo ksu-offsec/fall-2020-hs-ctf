@@ -1,7 +1,8 @@
 # Password cracking questions
 
 ## Question  1 (Difficulty level 1)  
-Initial information:  A network engineer working for Hooplah Corporation has captured some unusual network traffic on Vlan 3. While inspecting the .pcap file, a string of text was discovered. Try to decode the message!  
+**Initial information:**  
+A network engineer working for Hooplah Corporation has captured some unusual network traffic on Vlan 3. While inspecting the .pcap file, a string of text was discovered. Try to decode the message!  
 
 **SSBhbSBhIGg0eDByLCBmZWFyIG0z**
 
@@ -14,7 +15,8 @@ Decryption does not equal decoding!
 Base64 encoded. Can be decoded at ![https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
 
 ## Question 2 (Difficulty level 2)
-Initial information:  A super-secret group of hacktivists have tried to authenticate to a FBI honeypot. The following hashed password was captured. Try to decrypt it!
+**Initial information:**  
+A super-secret group of hacktivists have tried to authenticate to a FBI honeypot. The following hashed password was captured. Try to decrypt it!
 
 482C811DA5D5B4BC6D497FFA98491E38
 
@@ -28,7 +30,8 @@ MD5 Hash crackable at crackstation.
 “password123”
 
 ## Question 3 (Difficulty level 3)
-Initial information:  Security engineers have used an exploit to capture hashed Microsoft Windows credentials. The problem is we can’t read them, find a way to crack it!
+**Initial information:**  
+Security engineers have used an exploit to capture hashed Microsoft Windows credentials. The problem is we can’t read them, find a way to crack it!
 
 878D8014606CDA29677A44EFA1353FC7
 
@@ -42,7 +45,8 @@ NTLM hash. Crackable via crackstation.net
 “secret”
 
 ## Question 4 (Difficulty level 4)
-Initial information:  We've been passed another code by one of our people in the field. It's an old code, but it checks out.
+**Initial information:**  
+We've been passed another code by one of our people in the field. It's an old code, but it checks out.
 
 Ilv ecs oefne
 
@@ -56,7 +60,8 @@ Railfence cipher
 “I love fences”
 
 ## Question 5 (Difficulty level 5)
-Initial information:  Security analysts have obtained a password hash that cannot be read unless it is cracked. Thankfully, this appears to be a hash that can be cracked with the help of the “rockyou” password file.  If you don’t already have this file, you can download it from https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+**Initial information:**  
+Security analysts have obtained a password hash that cannot be read unless it is cracked. Thankfully, this appears to be a hash that can be cracked with the help of the “rockyou” password file.  If you don’t already have this file, you can download it from https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
 C69b755b65e3d5a3546edb23bbd186d9
 
