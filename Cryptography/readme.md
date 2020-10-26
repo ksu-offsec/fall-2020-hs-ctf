@@ -40,8 +40,8 @@ pigpen
 ## Question 4 (Difficulty level 4)
 **Initial Information:**  
 You only have one shot with this one, better make it count. We have an operative that just passed us the following message. Which numbered person from the photo is our operative?  
-![Crypto5 image](Crypto5.png)
-![Crypto5a image](Crypto5a.jpg)
+![Crypto4 image](Crypto4.png)
+![Crypto4a image](Crypto4a.jpg)
 
 **Hint:**  
 1.	This challenge could almost be steganography if you really think about it. (125 points)
@@ -49,3 +49,15 @@ You only have one shot with this one, better make it count. We have an operative
 
 **Answer:**  
 6
+
+## Question 5 (Difficulty level 5)
+**Initial Information:**  
+Another operative just passed us this message to break. Can you crack it and tell us what the answer is?  
+![Crypto5 image](Crypto5.png)
+
+**Hint:**  
+1.	This operative also really liked birdwatching, and kept talking about Charadrius melodus, whatever that is. (100 points)
+2.	In a past life, this operative worked in the legal system recording conversations. (100 points)
+
+**Answer:**  
+steno
