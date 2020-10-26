@@ -16,7 +16,7 @@ Roma
 **Initial Information:**    
 Another operative of ours passed us this information. It seems like an old code, but we can’t make it out. Maybe you can tell us what the answer is?
 
-![Crypto sound file](Crypto2.wav)
+![Crypto2.wav](Crypto2.wav)
 
 **Hint:**  
 1.	Our operative is very interested in older radio technology, maybe look into that? (50 points)
@@ -36,3 +36,16 @@ Our operative just passed us this message. Maybe you can tell us what the answer
 
 **Answer:**  
 pigpen
+
+## Question 4 (Difficulty level 4)
+**Initial Information:**  
+You only have one shot with this one, better make it count. We have an operative that just passed us the following message. Which numbered person from the photo is our operative?  
+
+<image>
+
+**Hint:**  
+1.	This challenge could almost be steganography if you really think about it. (125 points)
+2.	It's not a homoglyph, or a homograph, but... (125 points)
+
+**Answer:**  
+6
