@@ -40,7 +40,7 @@ pigpen
 ## Question 4 (Difficulty level 4)
 **Initial Information:**  
 You only have one shot with this one, better make it count. We have an operative that just passed us the following message. Which numbered person from the photo is our operative?  
-
+![Crypto5 image](Crypto5.jpg)
 ![Crypto5a image](Crypto5a.jpg)
 
 **Hint:**  
