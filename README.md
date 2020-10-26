@@ -5,7 +5,7 @@ Here are the challenges, answers, and support files used to hold the 2020 Fall I
 
 This year, we had challenges in the following categories:
 
-Open Source Intelligence (OSINT)
+- Open Source Intelligence (OSINT)
 - Cryptography
 - Enumeration
 - Log Analysis
