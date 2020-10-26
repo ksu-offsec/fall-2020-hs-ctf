@@ -1,6 +1,6 @@
 # Programming questions
 
-## Question1 (Difficulty level 1)
+## Question 1 (Difficulty level 1)
 **Initial Information:**  
 How would you declare the variable “Length” and assign it the integer value of 20 using Python?
 
