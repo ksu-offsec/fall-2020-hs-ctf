@@ -11,7 +11,7 @@ Decryption does not equal decoding!
 **Answer:**  
 “I am a h4x0r, fear m3”  
 
-Base64 encoded. Can be decoded at https://gchq.github.io/CyberChef/
+Base64 encoded. Can be decoded at ![https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
 
 ## Question 2 (Difficulty level 2)
 Initial information:  A super-secret group of hacktivists have tried to authenticate to a FBI honeypot. The following hashed password was captured. Try to decrypt it!
