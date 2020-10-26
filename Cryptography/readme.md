@@ -41,7 +41,8 @@ pigpen
 **Initial Information:**  
 You only have one shot with this one, better make it count. We have an operative that just passed us the following message. Which numbered person from the photo is our operative?  
 
-<image>
+![Crypto5 image](Crypto5.jpg)  
+![Crypto5a image](Crypto5a.jpg)
 
 **Hint:**  
 1.	This challenge could almost be steganography if you really think about it. (125 points)
