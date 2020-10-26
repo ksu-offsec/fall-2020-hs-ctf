@@ -39,7 +39,7 @@ cc:be:59:79:5d:1f
 
 ## Q5 (Difficulty level 5)
 Initial Information:
-Nice photo. What's the PlusCode of that giant building over there?
+Nice photo. What's the PlusCode of that giant building over there?  
 ![Question image](OSINT_5.png)
 
 Hint:  None given for this question
