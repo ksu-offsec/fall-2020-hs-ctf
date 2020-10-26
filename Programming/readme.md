@@ -40,13 +40,13 @@ Scores.append(156)
 **Initial Information:**  
 Using Python, fill in the appropriate statement (marked by xx) to make the following statement true:  
 
-  a = 29  
-  b = 56  
-  xx b > a  
-  print (“b is greater than a”)  
+    a = 29  
+    b = 56  
+    xx b > a  
+    print (“b is greater than a”)  
 
 **Solution:**  
-  xx= if
+    xx= if
 
 \“if b is greater than a\” is used as the condition for the statement \“b is greater than a\”
  
