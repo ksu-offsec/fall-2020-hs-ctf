@@ -48,7 +48,7 @@ Using Python, fill in the appropriate statement (marked by xx) to make the follo
 **Solution:**  
     xx= if
 
-\“if b is greater than a\” is used as the condition for the statement \“b is greater than a\”
+“if b is greater than a” is used as the condition for the statement “b is greater than a”
  
 
 Programming 5 (Difficulty Level 5)
