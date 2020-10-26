@@ -42,7 +42,7 @@ None given
 
 ## Question 5 (Difficulty level 1)  
 **Initial information:**  
-What programming language creation was influenced by Admiral Grace Hopper?  
+What programming language's creation was influenced by Admiral Grace Hopper?  
 
 **Hints:**  
 None given  
