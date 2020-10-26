@@ -20,7 +20,7 @@ Another operative of ours passed us this information. It seems like an old code,
 
 **Hint:**  
 1.	Our operative is very interested in older radio technology, maybe look into that? (50 points)
-2.	We’ve extracted this from the audio: - . .-.. . --. .-. .- .--. .... (50 points)
+2.	We’ve extracted this from the audio: **- . .-.. . --. .-. .- .--. ....** (50 points)
 
 **Answer:**  
 telegraph
