@@ -16,7 +16,7 @@ Roma
 **Initial Information:**    
 Another operative of ours passed us this information. It seems like an old code, but we can’t make it out. Maybe you can tell us what the answer is?
 
-<Crypto2.wav>
+![Crypto sound file](Crypto2.wav)
 
 **Hint:**  
 1.	Our operative is very interested in older radio technology, maybe look into that? (50 points)
@@ -24,3 +24,15 @@ Another operative of ours passed us this information. It seems like an old code,
 
 **Answer:**  
 telegraph
+
+## Question 3 (Difficulty level 3)
+**Initial Information:**  
+Our operative just passed us this message. Maybe you can tell us what the answer is?  
+ ![Crypto3 image](Crypto3.png)
+
+**Hint:**  
+1.	This operative was into secret societies and cults. (75 points)
+2.	He was also a stoneworker, if that helps at all. (75 points)
+
+**Answer:**  
+pigpen
