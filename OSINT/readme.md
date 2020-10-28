@@ -12,7 +12,7 @@ Hearthstone, League of Legends, Path of Exile
 
 ## Question 2 (Difficulty level 2)
 **Initial Information:**  
-There's a very nice picture that we have here. What’s the street address for the building in which it was taken as listed on its website?
+There's a very nice picture that we have here. What’s the street address (no City, State, or Zip Code) for the building in which it was taken as listed on its website?
  ![Question image](OSINT_2.png)
 
 **Hint:**  
@@ -44,6 +44,7 @@ cc:be:59:79:5d:1f
 ## Question 5 (Difficulty level 5)
 **Initial Information:**  
 Nice photo. What's the PlusCode of that giant building over there?  
+Format:  XXXX+XX 
 ![Question image](OSINT_5.png)
 
 **Hint:**  

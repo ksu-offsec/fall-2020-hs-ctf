@@ -42,7 +42,7 @@ Using Python, fill in the appropriate statement (marked by xx) to make the follo
 
     a = 29  
     b = 56  
-    xx b > a  
+    xx b > a:  
     print (“b is greater than a”)  
 
 **Answer:**  
